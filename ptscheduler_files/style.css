@@ -1,0 +1,180 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    margin: 1em auto;
+    padding: 0;
+    background: #393939;
+    background-image: url('navy_blue.png');
+    color: #fdfdfd;
+}
+
+h1,h2,h3,h4 {
+    color: #aff;
+    font-weight: bold;
+}
+
+a {
+    color: #c7c60b;
+}
+
+div#warning {
+    background: #ff9900;
+    border-radius: 1em;
+    position: relative;
+    padding: 1em;
+    margin: 0 auto;
+    padding: 0;
+    width: 60%;
+    border: solid 2px #ff5a09;
+    text-align: center;
+}
+
+div.wrap {
+    background: #4c4c4c;
+    border-radius: 1em;
+    position: relative;
+    padding: 0;
+    margin: 0 auto;
+    padding: 0;
+    //min-width: 60%;
+    width: 80%;
+    min-height: 98%;
+    border: solid 2px #22c8d6;
+}
+
+div.header {
+    margin: .5em auto;
+    padding-top: 1em;
+    text-align: center;
+    background: -webkit-radial-gradient(50% 50%, closest-side, rgba(11,198,198,.2) , rgba(111,111,111,0) );
+    //background: -o-radial-gradient(50% 50%, closest-side, #393939 , #6e6e6e );
+    //background: -moz-radial-gradient(50% 50%, closest-side, #393939 , #6e6e6e );
+    //background: radial-gradient(50% 50%, closest-side, #393939 , #6e6e6e );
+}
+
+div.header h1 {
+    font-size: 3.5em;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    padding: .7em 0;
+    margin: 0 auto;
+    color: #bfbfbf;
+    //text-shadow: 0px 0px 10px #ff9900;
+    background: -webkit-radial-gradient(50% 50%, closest-side, rgba(57,57,57,1) , rgba(111,111,111,0) );
+    //background: -o-radial-gradient(50% 50%, closest-side, #393939 , #6e6e6e );
+    //background: -moz-radial-gradient(50% 50%, closest-side, #393939 , #6e6e6e );
+    //background: radial-gradient(50% 50%, closest-side, #393939 , #6e6e6e );
+    text-align: center;
+    border-radius: .25em;
+    min-width: 190px;
+    max-width: 70%;
+}
+
+div.menu {
+    margin: 0 auto;
+    //background: #1d9;
+    text-align: center;
+}
+
+div.menu ul {
+    margin: 1em auto;
+    padding: 0;
+    width: 100%;
+}
+
+div.menu ul li {
+    min-width: 15%;
+    padding: 1em;
+    display: inline-block;
+    text-align: center;
+    border-radius: 1em;
+}
+
+div.menu a {
+    color: #ffffff;
+    text-decoration: none;
+    text-shadow: 1px 1px 0px black;
+}
+
+div.menu a:hover {
+    color: #ddd;
+    text-decoration: none;
+}
+
+div#content {
+    margin: 1em 0;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+}
+
+div#content h1,h2,h3,h4 {
+    margin: 0 auto 1em;
+    border-bottom: solid 2px #27a3fa;
+    width: 80%;
+}
+
+#output {
+padding-left:5%;
+   width: 45%; 
+}
+
+table {
+    width:100%;
+    margin: 0 auto;
+}
+
+td {
+    padding: .5em 1em;
+}
+
+input {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+form {
+    max-width: 50%;
+    margin: 0 auto;
+}
+
+fieldset {
+    padding: .5em;
+}
+
+legend {
+    color: #eee;
+}
+
+p {
+    padding: 0 1em;
+}
+
+#sidebar {
+    float:right;
+    padding-top:2%;
+    padding-right:10%;
+}
+
+td {
+    padding: 0em;
+    margin: 0 0;
+}
+
+
+#sidebar #employeeList tr:not(:first-child) {
+    color: #f8f;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.clr:after {
+    visibility: hidden;
+    display: block;
+    content: "";
+    clear: both;
+    height: 0;
+}
+
+span#fill {
+    clear: right;
+}

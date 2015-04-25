@@ -1,0 +1,4346 @@
+
+ 
+| EXIT
+Class Schedule Listing
+
+    
+Fall 2015 - College Station
+Apr 23, 2015
+Transparent Image
+
+Sections Found
+PROGRAMMING I - 10963 - CSCE 110 - 501
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Tiffani Williams (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Laboratory  8:00 am - 8:50 am   TR  Reed McDonald Building 111J Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Tiffani Williams E-mail
+Lecture 9:35 am - 10:50 am  TR  H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Tiffani Williams (P)E-mail
+
+
+PROGRAMMING I - 10964 - CSCE 110 - 502
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Tiffani Williams (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 9:35 am - 10:50 am  TR  H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Tiffani Williams (P)E-mail
+Laboratory  11:10 am - 12:00 pm TR  Reed McDonald Building 111J Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Tiffani Williams E-mail
+
+
+PROGRAMMING I - 17631 - CSCE 110 - 503
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Tiffani Williams (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Laboratory  3:00 pm - 3:50 pm   MW  Reed McDonald Building 111J Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Tiffani Williams E-mail
+Lecture 9:35 am - 10:50 am  TR  H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Tiffani Williams (P)E-mail
+
+
+PROGRAMMING I - 26215 - CSCE 110 - 504
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 11:10 am - 12:25 pm TR  Emerging Technologies Building 2005 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  TBA
+Laboratory  3:55 pm - 4:45 pm   TR  Reed McDonald Building 111J Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  TBA
+
+
+PROGRAMMING I - 26216 - CSCE 110 - 505
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 11:10 am - 12:25 pm TR  Emerging Technologies Building 2005 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  TBA
+Laboratory  5:30 pm - 6:20 pm   TR  Reed McDonald Building 111J Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  TBA
+
+
+PROGRAMMING I - 26217 - CSCE 110 - 506
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Laboratory  5:45 pm - 6:35 pm   MW  Reed McDonald Building 111A Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  TBA
+Lecture 11:10 am - 12:25 pm TR  Emerging Technologies Building 2005 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  TBA
+
+
+CPSC CONCEPTS & PROGRAM - 26218 - CSCE 111 - 200
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Laboratory  TBA     TBA Aug 31, 2015 - Dec 16, 2015 Lecture TBA
+Lecture TBA     TBA Aug 31, 2015 - Dec 16, 2015 Lecture TBA
+
+
+CPSC CONCEPTS & PROGRAM - 10965 - CSCE 111 - 501
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Joseph Daniel Hurley (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 11:30 am - 12:20 pm MWF H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Joseph Daniel Hurley (P)
+Laboratory  12:40 pm - 1:30 pm  MW  Reed McDonald Building 111J Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Joseph Daniel Hurley
+
+
+CPSC CONCEPTS & PROGRAM - 10966 - CSCE 111 - 502
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Joseph Daniel Hurley (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 11:30 am - 12:20 pm MWF H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Joseph Daniel Hurley (P)
+Laboratory  1:50 pm - 2:40 pm   MW  Reed McDonald Building 111J Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Joseph Daniel Hurley
+
+
+CPSC CONCEPTS & PROGRAM - 10967 - CSCE 111 - 503
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Joseph Daniel Hurley (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 11:30 am - 12:20 pm MWF H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Joseph Daniel Hurley (P)
+Laboratory  9:35 am - 10:25 am  TR  Reed McDonald Building 111J Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Joseph Daniel Hurley
+
+
+CPSC CONCEPTS & PROGRAM - 24717 - CSCE 111 - 504
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Bruce S Gooch (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 1:50 pm - 2:40 pm   MWF H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Bruce S Gooch (P)
+Laboratory  8:00 am - 8:50 am   MW  Reed McDonald Building 111J Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Bruce S Gooch
+
+
+CPSC CONCEPTS & PROGRAM - 24930 - CSCE 111 - 505
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Bruce S Gooch (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 1:50 pm - 2:40 pm   MWF H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Bruce S Gooch (P)
+Laboratory  9:10 am - 10:00 am  MW  Reed McDonald Building 111J Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Bruce S Gooch
+
+
+CPSC CONCEPTS & PROGRAM - 26219 - CSCE 111 - 506
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Bruce S Gooch (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 1:50 pm - 2:40 pm   MWF H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Bruce S Gooch (P)
+Laboratory  3:55 pm - 4:45 pm   TR  Reed McDonald Building 111A Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Bruce S Gooch
+
+
+HNR-INTRO PGM DESIGN CONCEPT - 10971 - CSCE 121 - 200
+MIN GPR 3.4 REQUIRED FOR CATALOG 126 OR LOWER MIN GPR 3.5 REQUIRED FOR CATALOG 127 OR GREATER. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: Honors 
+Instructors: Jennifer Welch (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 10:20 am - 11:10 am MWF H. R. Bright Building 126   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Jennifer Welch (P)E-mail
+Laboratory  11:30 am - 12:20 pm MW  Reed McDonald Building 111H Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Jennifer Welch E-mail
+
+
+INTRO PGM DESIGN CONCEPT - 10972 - CSCE 121 - 501
+SECTION 200: ,MIN GPR 3.4 REQUIRED FOR CATALOG 126 OR LOWER, ,MIN GPR 3.5 REQUIRED FOR CATALOG 127 OR GREATER. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Walter Daugherity (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Laboratory  9:35 am - 10:25 am  TR  Reed McDonald Building 111A Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Walter Daugherity E-mail
+Lecture 11:10 am - 12:25 pm TR  Engineering Academic Bldg A 108 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Walter Daugherity (P)E-mail
+
+
+INTRO PGM DESIGN CONCEPT - 10973 - CSCE 121 - 502
+SECTION 200: ,MIN GPR 3.4 REQUIRED FOR CATALOG 126 OR LOWER, ,MIN GPR 3.5 REQUIRED FOR CATALOG 127 OR GREATER. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Walter Daugherity (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Laboratory  8:00 am - 8:50 am   MW  Reed McDonald Building 111A Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Walter Daugherity E-mail
+Lecture 11:10 am - 12:25 pm TR  Engineering Academic Bldg A 108 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Walter Daugherity (P)E-mail
+
+
+INTRO PGM DESIGN CONCEPT - 10974 - CSCE 121 - 503
+SECTION 200: ,MIN GPR 3.4 REQUIRED FOR CATALOG 126 OR LOWER, ,MIN GPR 3.5 REQUIRED FOR CATALOG 127 OR GREATER. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Walter Daugherity (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 11:10 am - 12:25 pm TR  Engineering Academic Bldg A 108 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Walter Daugherity (P)E-mail
+Laboratory  5:30 pm - 6:20 pm   TR  Reed McDonald Building 111A Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Walter Daugherity E-mail
+
+
+INTRO PGM DESIGN CONCEPT - 10975 - CSCE 121 - 504
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Walter Daugherity (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 11:10 am - 12:25 pm TR  Engineering Academic Bldg A 108 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Walter Daugherity (P)E-mail
+Laboratory  12:45 pm - 2:00 pm  TR  Reed McDonald Building 111A Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Walter Daugherity E-mail
+
+
+INTRO PGM DESIGN CONCEPT - 10976 - CSCE 121 - 505
+SECTION 200: ,MIN GPR 3.4 REQUIRED FOR CATALOG 126 OR LOWER, ,MIN GPR 3.5 REQUIRED FOR CATALOG 127 OR GREATER. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Walter Daugherity (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Laboratory  8:00 am - 8:50 am   MW  Reed McDonald Building 111H Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Walter Daugherity E-mail
+Lecture 11:10 am - 12:25 pm TR  Engineering Academic Bldg A 108 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Walter Daugherity (P)E-mail
+
+
+INTRO PGM DESIGN CONCEPT - 10977 - CSCE 121 - 506
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Walter Daugherity (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Laboratory  9:10 am - 10:00 am  MW  Reed McDonald Building 111H Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Walter Daugherity E-mail
+Lecture 11:10 am - 12:25 pm TR  Engineering Academic Bldg A 108 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Walter Daugherity (P)E-mail
+
+
+INTRO PGM DESIGN CONCEPT - 13731 - CSCE 121 - 507
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Walter Daugherity (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Laboratory  9:35 am - 10:25 am  TR  Reed McDonald Building 111H Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Walter Daugherity E-mail
+Lecture 5:30 pm - 6:45 pm   TR  Engineering Academic Bldg A 108 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Walter Daugherity (P)E-mail
+
+
+INTRO PGM DESIGN CONCEPT - 13733 - CSCE 121 - 508
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Walter Daugherity (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Laboratory  11:10 am - 12:00 pm TR  Reed McDonald Building 111H Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Walter Daugherity E-mail
+Lecture 5:30 pm - 6:45 pm   TR  Engineering Academic Bldg A 108 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Walter Daugherity (P)E-mail
+
+
+INTRO PGM DESIGN CONCEPT - 14010 - CSCE 121 - 509
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Walter Daugherity (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Laboratory  12:45 pm - 1:35 pm  TR  Reed McDonald Building 111H Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Walter Daugherity E-mail
+Lecture 5:30 pm - 6:45 pm   TR  Engineering Academic Bldg A 108 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Walter Daugherity (P)E-mail
+
+
+INTRO PGM DESIGN CONCEPT - 19941 - CSCE 121 - 510
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Walter Daugherity (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 11:30 am - 12:20 pm MWF Engineering Academic Bldg A 108 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Walter Daugherity (P)E-mail
+Laboratory  2:20 pm - 3:10 pm   TR  Reed McDonald Building 111H Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Walter Daugherity E-mail
+
+
+INTRO PGM DESIGN CONCEPT - 24679 - CSCE 121 - 511
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Walter Daugherity (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 11:30 am - 12:20 pm MWF Engineering Academic Bldg A 108 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Walter Daugherity (P)E-mail
+Laboratory  3:55 pm - 4:45 pm   TR  Reed McDonald Building 111H Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Walter Daugherity E-mail
+
+
+INTRO PGM DESIGN CONCEPT - 24680 - CSCE 121 - 512
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Walter Daugherity (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 11:30 am - 12:20 pm MWF Engineering Academic Bldg A 108 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Walter Daugherity (P)E-mail
+Laboratory  11:10 am - 12:00 pm TR  Reed McDonald Building 111A Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Walter Daugherity E-mail
+
+
+INTRO PGM DESIGN CONCEPT - 24681 - CSCE 121 - 513
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Laboratory  8:00 am - 8:50 am   MW  TBA Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  TBA
+Lecture 2:20 pm - 3:35 pm   TR  Civil Engineering Building 203  Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  TBA
+
+
+INTRO PGM DESIGN CONCEPT - 26220 - CSCE 121 - 514
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 2:20 pm - 3:35 pm   TR  TBA Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  TBA
+Laboratory  TBA     TBA Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  TBA
+
+
+INTRO PGM DESIGN CONCEPT - 26221 - CSCE 121 - 515
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 2:20 pm - 3:35 pm   TR  TBA Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  TBA
+Laboratory  TBA     TBA Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  TBA
+
+
+INTRO PGM DESIGN CONCEPT - 26222 - CSCE 121 - 516
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 2:20 pm - 3:35 pm   TR  TBA Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  TBA
+Laboratory  TBA     TBA Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  TBA
+
+
+INTRO TO COMPUTING - 20606 - CSCE 181 - 500
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+1.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 3:55 pm - 5:10 pm   TR  H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture TBA
+
+
+STRUCTURED PROG IN C - 10978 - CSCE 206 - 501
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Joseph Daniel Hurley (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 8:00 am - 8:50 am   MWF H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Joseph Daniel Hurley (P)
+Laboratory  6:00 pm - 8:00 pm   F   Reed McDonald Building 111J Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Joseph Daniel Hurley
+
+
+STRUCTURED PROG IN C - 10979 - CSCE 206 - 502
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Joseph Daniel Hurley (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 8:00 am - 8:50 am   MWF H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Joseph Daniel Hurley (P)
+Laboratory  11:30 am - 12:20 pm MW  Reed McDonald Building 111J Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Joseph Daniel Hurley
+
+
+STRUCTURED PROG IN C - 10980 - CSCE 206 - 503
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Joseph Daniel Hurley (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 8:00 am - 8:50 am   MWF H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Joseph Daniel Hurley (P)
+Laboratory  12:45 pm - 1:35 pm  TR  Reed McDonald Building 111J Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Joseph Daniel Hurley
+
+
+STRUCTURED PROG IN C - 10981 - CSCE 206 - 504
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Joseph Daniel Hurley (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 9:10 am - 10:00 am  MWF H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Joseph Daniel Hurley (P)
+Laboratory  6:00 pm - 8:00 pm   F   Reed McDonald Building 111C Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Joseph Daniel Hurley
+
+
+STRUCTURED PROG IN C - 10982 - CSCE 206 - 505
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Joseph Daniel Hurley (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 9:10 am - 10:00 am  MWF H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Joseph Daniel Hurley (P)
+Laboratory  10:20 am - 11:10 am MW  Reed McDonald Building 111J Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Joseph Daniel Hurley
+
+
+STRUCTURED PROG IN C - 10983 - CSCE 206 - 506
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Joseph Daniel Hurley (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 9:10 am - 10:00 am  MWF H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Joseph Daniel Hurley (P)
+Laboratory  2:20 pm - 3:10 pm   TR  Reed McDonald Building 111J Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Joseph Daniel Hurley
+
+
+DATA STRUC & ALGORITHM - 10984 - CSCE 221 - 501
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Teresa Leyk (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 10:20 am - 11:10 am MWF H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Teresa Leyk (P)E-mail
+Laboratory  10:20 am - 11:10 am MW  Reed McDonald Building 111H Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Teresa Leyk E-mail
+
+
+DATA STRUC & ALGORITHM - 10985 - CSCE 221 - 502
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Teresa Leyk (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 10:20 am - 11:10 am MWF H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Teresa Leyk (P)E-mail
+Laboratory  12:40 pm - 1:30 pm  MW  Reed McDonald Building 111H Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Teresa Leyk E-mail
+
+
+DATA STRUC & ALGORITHM - 10986 - CSCE 221 - 503
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Teresa Leyk (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 10:20 am - 11:10 am MWF H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Teresa Leyk (P)E-mail
+Laboratory  1:50 pm - 2:40 pm   MW  Reed McDonald Building 111H Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Teresa Leyk E-mail
+
+
+DATA STRUC & ALGORITHM - 10987 - CSCE 221 - 504
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Teresa Leyk (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 9:10 am - 10:00 am  MWF Emerging Technologies Building 2005 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Teresa Leyk (P)E-mail
+Laboratory  3:00 pm - 3:50 pm   MW  Reed McDonald Building 111A Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Teresa Leyk E-mail
+
+
+DATA STRUC & ALGORITHM - 13269 - CSCE 221 - 505
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Teresa Leyk (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 9:10 am - 10:00 am  MWF Emerging Technologies Building 2005 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Teresa Leyk (P)E-mail
+Laboratory  11:30 am - 12:20 pm MW  Reed McDonald Building 111A Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Teresa Leyk E-mail
+
+
+DATA STRUC & ALGORITHM - 17632 - CSCE 221 - 506
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Teresa Leyk (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 9:10 am - 10:00 am  MWF Emerging Technologies Building 2005 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Teresa Leyk (P)E-mail
+Laboratory  8:00 am - 8:50 am   TR  Reed McDonald Building 111H Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Teresa Leyk E-mail
+
+
+DATA STRUC & ALGORITHM - 26223 - CSCE 221 - 507
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 3:00 pm - 3:50 pm   MWF Francis Hall 102    Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  TBA
+Laboratory  4:10 pm - 5:00 pm   MW  Reed McDonald Building 111H Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  TBA
+
+
+DATA STRUC & ALGORITHM - 26224 - CSCE 221 - 508
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 3:00 pm - 3:50 pm   MWF Francis Hall 102    Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  TBA
+Laboratory  5:45 pm - 6:35 pm   MW  Reed McDonald Building 111H Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  TBA
+
+
+DATA STRUC & ALGORITHM - 26225 - CSCE 221 - 509
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 3:00 pm - 3:50 pm   MWF Francis Hall 102    Aug 31, 2015 - Dec 16, 2015 Lecture TBA
+Laboratory  12:40 pm - 1:30 pm  MW  Reed McDonald Building 111C Aug 31, 2015 - Dec 16, 2015 Lecture TBA
+
+
+HNR-DISCRETE STRUC COMPUTING - 17031 - CSCE 222 - 200
+PREREQ:MATH 151. MIN GPR 3.4 REQUIRED FOR CATALOG 126 OR LOWER MIN GPR 3.5 REQUIRED FOR CATALOG 127 OR GREATER 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: Honors 
+Instructors: Timothy A Davis (P) 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 1:50 pm - 2:40 pm   MW  H. R. Bright Building 126   Aug 31, 2015 - Dec 16, 2015 Lecture Timothy A Davis (P)E-mail
+
+
+DISCRETE STRUC COMPUTING - 23430 - CSCE 222 - 501
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 10:20 am - 11:10 am MWF Richardson Petroleum Engr Bldg 114  Aug 31, 2015 - Dec 16, 2015 Lecture TBA
+
+
+DISCRETE STRUC COMPUTING - 24684 - CSCE 222 - 502
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Teresa Leyk (P) 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 8:00 am - 8:50 am   MWF Richardson Petroleum Engr Bldg 114  Aug 31, 2015 - Dec 16, 2015 Lecture Teresa Leyk (P)E-mail
+
+
+DISCRETE STRUC COMPUTING - 27414 - CSCE 222 - 505
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Teresa Leyk (P) 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 11:30 am - 12:20 pm MWF Emerging Technologies Building 2005 Aug 31, 2015 - Dec 16, 2015 Lecture Teresa Leyk (P)E-mail
+
+
+DISCRETE STRUC COMPUTING - 27418 - CSCE 222 - 509
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 2:20 pm - 3:35 pm   TR  Emerging Technologies Building 2005 Aug 31, 2015 - Dec 16, 2015 Lecture TBA
+
+
+RESEARCH - 25337 - CSCE 291 - 541
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Thomas Ioerger (P) 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Thomas Ioerger (P)
+
+
+HNR-COMPUTER ORGANIZATION - 27422 - CSCE 312 - 200
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Eun Kim (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 9:10 am - 10:00 am  MWF H. R. Bright Building 126   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Eun Kim (P)
+Laboratory  3:00 pm - 3:50 pm   W   Reed McDonald Building 111H Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Eun Kim (P)
+
+
+COMPUTER ORGANIZATION - 10989 - CSCE 312 - 501
+PREREQUISITES: CSCE 221 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Rabinarayan Mahapatra (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Laboratory  10:00 am - 12:00 pm M   Reed McDonald Building 111C Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Rabinarayan Mahapatra E-mail
+Lecture 5:30 pm - 6:45 pm   TR  H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Rabinarayan Mahapatra (P)E-mail
+
+
+COMPUTER ORGANIZATION - 10990 - CSCE 312 - 502
+PREREQUISITES: CSCE 221 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Rabinarayan Mahapatra (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 5:30 pm - 6:45 pm   TR  H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Rabinarayan Mahapatra (P)E-mail
+Laboratory  10:00 am - 12:00 pm W   Reed McDonald Building 111C Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Rabinarayan Mahapatra E-mail
+
+
+COMPUTER ORGANIZATION - 16429 - CSCE 312 - 503
+PREREQUISITES: CSCE 221 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Rabinarayan Mahapatra (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Laboratory  8:00 am - 10:00 am  M   Reed McDonald Building 111C Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Rabinarayan Mahapatra E-mail
+Lecture 5:30 pm - 6:45 pm   TR  H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Rabinarayan Mahapatra (P)E-mail
+
+
+HNR-INTRO TO COMPUTER SYSTEM - 27001 - CSCE 313 - 200
+MIN GPR 3.4 REQUIRED FOR CATALOG 126 OR LOWER MIN GPR 3.5 REQUIRED FOR CATALOG 127 OR GREATER 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: Honors 
+Instructors: Dmitri Loguinov (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Laboratory  5:00 pm - 6:00 pm   M   TBA Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Dmitri Loguinov E-mail
+Lecture 2:20 pm - 3:35 pm   TR  Thompson Hall 009C  Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Dmitri Loguinov (P)E-mail
+
+
+INTRO TO COMPUTER SYSTEM - 10991 - CSCE 313 - 501
+PREREQUISITES: CSCE 312 OR CO-REQUISITE CSCE/ECEN 350 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Aakash Tyagi (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Laboratory  4:00 pm - 6:00 pm   M   Reed McDonald Building 111J Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Aakash Tyagi E-mail
+Lecture 11:10 am - 12:25 pm TR  H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Aakash Tyagi (P)E-mail
+
+
+INTRO TO COMPUTER SYSTEM - 10992 - CSCE 313 - 502
+PREREQUISITES: CSCE 312 OR CO-REQUISITE CSCE/ELEN 350 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Aakash Tyagi (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 11:10 am - 12:25 pm TR  H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Aakash Tyagi (P)E-mail
+Laboratory  6:00 pm - 8:00 pm   W   Reed McDonald Building 111J Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Aakash Tyagi E-mail
+
+
+INTRO TO COMPUTER SYSTEM - 15306 - CSCE 313 - 503
+PREREQUISITES: CSCE 312 OR CO-REQUISITE CSCE/ECEN 350 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Aakash Tyagi (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 11:10 am - 12:25 pm TR  H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Aakash Tyagi (P)E-mail
+Laboratory  10:00 am - 12:00 pm F   Reed McDonald Building 111C Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Aakash Tyagi E-mail
+
+
+INTRO TO COMPUTER SYSTEM - 15307 - CSCE 313 - 504
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Aakash Tyagi (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 3:55 pm - 5:10 pm   TR  Chemistry Building 2102 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Aakash Tyagi (P)E-mail
+Laboratory  12:00 pm - 2:00 pm  F   Reed McDonald Building 111C Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Aakash Tyagi E-mail
+
+
+INTRO TO COMPUTER SYSTEM - 26229 - CSCE 313 - 505
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Aakash Tyagi (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Laboratory  8:00 am - 10:00 am  M   Reed McDonald Building 111C Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Aakash Tyagi E-mail
+Lecture 3:55 pm - 5:10 pm   TR  Chemistry Building 2102 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Aakash Tyagi (P)E-mail
+
+
+INTRO TO COMPUTER SYSTEM - 26230 - CSCE 313 - 506
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Aakash Tyagi (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 3:55 pm - 5:10 pm   TR  Chemistry Building 2102 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Aakash Tyagi (P)E-mail
+Laboratory  8:00 am - 10:00 am  W   Reed McDonald Building 111C Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Aakash Tyagi E-mail
+
+
+PROGRAMMING LANGUAGES - 24687 - CSCE 314 - 501
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Hyunyoung Lee (P) 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 10:20 am - 11:10 am MWF Emerging Technologies Building 2005 Aug 31, 2015 - Dec 16, 2015 Lecture Hyunyoung Lee (P)E-mail
+
+
+PROGRAMMING LANGUAGES - 26231 - CSCE 314 - 502
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Hyunyoung Lee (P) 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 1:50 pm - 2:40 pm   MWF Emerging Technologies Building 2005 Aug 31, 2015 - Dec 16, 2015 Lecture Hyunyoung Lee (P)E-mail
+
+
+PROGRAMMING STUDIO - 13142 - CSCE 315 - 501
+PREREQUISITES: CSCE 312 AND CSCE 314 OR CSCE/ELEN 350, CO-REQUISITE CSCE 313. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Yoonsuck Choe (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Laboratory  3:00 pm - 3:50 pm   MW  Reed McDonald Building 111C Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Yoonsuck Choe E-mail
+Lecture 12:45 pm - 2:00 pm  TR  H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Yoonsuck Choe (P)E-mail
+
+
+PROGRAMMING STUDIO - 13268 - CSCE 315 - 502
+PREREQUISITES: CSCE 312 AND CSCE 314 OR CSCE/ELEN 350, CO-REQUISITE CSCE 313. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Yoonsuck Choe (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Laboratory  4:10 pm - 5:00 pm   MW  Reed McDonald Building 111C Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Yoonsuck Choe E-mail
+Lecture 12:45 pm - 2:00 pm  TR  H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Yoonsuck Choe (P)E-mail
+
+
+PROGRAMMING STUDIO - 18968 - CSCE 315 - 503
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Yoonsuck Choe (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Laboratory  5:45 pm - 6:35 pm   MW  Reed McDonald Building 111C Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Yoonsuck Choe E-mail
+Lecture 12:45 pm - 2:00 pm  TR  H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Yoonsuck Choe (P)E-mail
+
+
+OPERATING SYSTEMS - 22117 - CSCE 410 - 500
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Dilma Da Silva (P) 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 8:00 am - 9:15 am   TR  H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture Dilma Da Silva (P)
+
+
+DESIGN ANALY ALGORITHMS - 24685 - CSCE 411 - 501
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Sing Sze (P) 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 9:10 am - 10:00 am  MWF H. R. Bright Building 113   Aug 31, 2015 - Dec 16, 2015 Lecture Sing Sze (P)
+
+
+DESIGN ANALY ALGORITHMS - 26232 - CSCE 411 - 502
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Andreas Klappenecker (P) 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 11:30 am - 12:20 pm MWF H. R. Bright Building 113   Aug 31, 2015 - Dec 16, 2015 Lecture Andreas Klappenecker (P)
+
+
+ARTIFICIAL INTELLIGENCE - 10995 - CSCE 420 - 500
+PREREQUISITES: CSCE 315 OR APPROVAL OF INSTRUCTOR. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Dylan A Shell (P) 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 11:10 am - 12:25 pm TR  H. R. Bright Building 113   Aug 31, 2015 - Dec 16, 2015 Lecture Dylan A Shell (P)E-mail
+
+
+HNR-COMPILER DESIGN - 13267 - CSCE 434 - 200
+MIN GPR 3.4 REQUIRED FOR CATALOG 126 OR LOWER MIN GPR 3.5 REQUIRED FOR CATALOG 127 OR GREATER. PREREQUISITES: CSCE 315 OR APPROVAL OF INSTRUCTOR. STACHED W/434-500 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: Honors 
+Instructors: Lawrence Rauchwerger (P) 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 3:00 pm - 3:50 pm   MWF H. R. Bright Building 113   Aug 31, 2015 - Dec 16, 2015 Lecture Lawrence Rauchwerger (P)E-mail
+
+
+COMPILER DESIGN - 10996 - CSCE 434 - 500
+PREREQUISITES: CSCE 315 OR APPROVAL OF INSTRUCTOR 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Lawrence Rauchwerger (P) 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 3:00 pm - 3:50 pm   MWF H. R. Bright Building 113   Aug 31, 2015 - Dec 16, 2015 Lecture Lawrence Rauchwerger (P)E-mail
+
+
+PARALLEL COMPUTING - 20607 - CSCE 435 - 500
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Vivek Sarin (P) 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 10:20 am - 11:10 am MWF H. R. Bright Building 113   Aug 31, 2015 - Dec 16, 2015 Lecture Vivek Sarin (P)E-mail
+
+
+COMP HUMAN INTERACTION - 15061 - CSCE 436 - 500
+PREREQUISITES: CSCE 315 OR APPROVAL OF INSTRUCTOR. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Richard K. Furuta (P) 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 11:30 am - 12:20 pm MWF H. R. Bright Building 131   Aug 31, 2015 - Dec 16, 2015 Lecture Richard K. Furuta (P)E-mail
+
+
+COMPUTER GRAPHICS - 10997 - CSCE 441 - 500
+PREREQUISITES: CSCE 221 OR APPROVAL OF INSTRUCTOR. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Jinxiang Chai (P) 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 1:50 pm - 2:40 pm   MWF H. R. Bright Building 113   Aug 31, 2015 - Dec 16, 2015 Lecture Jinxiang Chai (P)
+
+
+INTERACTIVE INFORMATION - 27643 - CSCE 444 - 500
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Andrew Kerne (P) 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 3:55 pm - 5:10 pm   TR  Jack E. Brown Chem Engn Bldg 104    Aug 31, 2015 - Dec 16, 2015 Lecture Andrew Kerne (P)E-mail
+
+
+MICROCOMPUTER SYSTEMS - 10998 - CSCE 462 - 501
+PREREQUISITES: CSCE 313 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: Lab Safety Acknowledgment 
+Instructors: Jyh Liu (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Laboratory  11:30 am - 1:10 pm  M   H. R. Bright Building 217   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Jyh Liu E-mail
+Lecture 9:35 am - 10:50 am  TR  H. R. Bright Building 113   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Jyh Liu (P)E-mail
+
+
+MICROCOMPUTER SYSTEMS - 10999 - CSCE 462 - 502
+PREREQUISITES: CSCE 313 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: Lab Safety Acknowledgment 
+Instructors: Jyh Liu (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 9:35 am - 10:50 am  TR  H. R. Bright Building 113   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Jyh Liu (P)E-mail
+Laboratory  12:40 pm - 2:20 pm  W   H. R. Bright Building 217   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Jyh Liu E-mail
+
+
+MICROCOMPUTER SYSTEMS - 24932 - CSCE 462 - 503
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: Lab Safety Acknowledgment 
+Instructors: Jyh Liu (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 9:35 am - 10:50 am  TR  H. R. Bright Building 113   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Jyh Liu (P)E-mail
+Laboratory  12:40 pm - 2:20 pm  F   H. R. Bright Building 217   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Jyh Liu E-mail
+
+
+WIRELESS AND MOBILE SYS - 26233 - CSCE 464 - 500
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Radu Stoleru (P) 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 10:20 am - 11:10 am MWF Harrington Educ Ctr Office Twr 632  Aug 31, 2015 - Dec 16, 2015 Lecture Radu Stoleru (P)E-mail
+
+
+INFO STORAGE & RETRIEVAL - 23429 - CSCE 470 - 500
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 3:55 pm - 5:10 pm   TR  TBA Aug 31, 2015 - Dec 16, 2015 Lecture TBA
+
+
+SEMINAR - 13750 - CSCE 481 - 900
+900 SECTIONS FULFILL A WRITING/ COMMUNICATION REQUIREMENT FOR GRADUATION 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD, Univ Req-Writing Intensive 
+
+College Station Campus 
+Seminar Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+1.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Seminar 2:20 pm - 3:35 pm   TR  H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Seminar TBA
+
+
+SR CAPSTONE DESIGN - 16947 - CSCE 482 - 501
+PREREQUISITES: CSCE 411, SENIOR CLASSIFICATION 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+Instructors: Tracy Hammond (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 1:00 pm - 1:25 pm   MW  H. R. Bright Building 302   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Tracy Hammond (P)E-mail
+Laboratory  1:30 pm - 4:00 pm   MW  TBA Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Tracy Hammond E-mail
+
+
+SR CAPSTONE DESIGN - 16966 - CSCE 482 - 502
+PREREQ: CSCE 411 AND SENIOR CLASSIFICATION 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 1:00 pm - 1:25 pm   MW  H. R. Bright Building 302   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  TBA
+Laboratory  1:30 pm - 4:00 pm   TR  H. R. Bright Building 229   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  TBA
+
+
+SR CAPSTONE DESIGN - 26234 - CSCE 482 - 503
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 8:00 am - 8:25 am   TR  H. R. Bright Building 126   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  TBA
+Laboratory  8:30 am - 11:00 am  TR  H. R. Bright Building 203   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  TBA
+
+
+SR CAPSTONE DESIGN - 26235 - CSCE 482 - 504
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+Instructors: Dylan A Shell (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 8:00 am - 9:15 am   TR  H. R. Bright Building 126   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Dylan A Shell (P)E-mail
+Laboratory  8:30 am - 11:00 am  TR  H. R. Bright Building 203   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Dylan A Shell E-mail
+
+
+COMPUTER SYS DESIGN - 11000 - CSCE 483 - 501
+PREREQUISITES: CSCE 315, CSCE 462, SENIOR CLASSIFICATION 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Dezhen Song (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 12:45 pm - 1:10 pm  TR  H. R. Bright Building 126   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Dezhen Song (P)E-mail
+Laboratory  1:20 pm - 3:50 pm   TR  H. R. Bright Building 218   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Dezhen Song E-mail
+
+
+COMPUTER SYS DESIGN - 11001 - CSCE 483 - 502
+PREREQUISITES: CSCE 315, CSCE 462, SENIOR CLASSIFICATION 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Dezhen Song (P) 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Laboratory  1:20 pm - 3:50 pm   MW  H. R. Bright Building 218   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Dezhen Song E-mail
+Lecture 12:45 pm - 1:10 pm  TR  H. R. Bright Building 126   Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Dezhen Song (P)E-mail
+
+
+DIRECTED STUDIES - 16813 - CSCE 485 - 517
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+Instructors: Jaakko Jarvi (P) 
+
+College Station Campus 
+Independent Study Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 6.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Independent Study   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Independent Study   Jaakko Jarvi (P)E-mail
+
+
+DIRECTED STUDIES - 21839 - CSCE 485 - 527
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+Instructors: Jyh Liu (P) 
+
+College Station Campus 
+Independent Study Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 6.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Independent Study   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Independent Study   Jyh Liu (P)E-mail
+
+
+DIRECTED STUDIES - 16773 - CSCE 485 - 536
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+Instructors: Tracy Hammond (P) 
+
+College Station Campus 
+Independent Study Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 6.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Independent Study   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Independent Study   Tracy Hammond (P)E-mail
+
+
+DIRECTED STUDIES - 19496 - CSCE 485 - 545
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+Instructors: James Caverlee (P) 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 6.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    James Caverlee (P)E-mail
+
+
+DIRECTED STUDIES - 16762 - CSCE 485 - 546
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+Instructors: Dylan A Shell (P) 
+
+College Station Campus 
+Independent Study Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 6.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Independent Study   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Independent Study   Dylan A Shell (P)E-mail
+
+
+DIRECTED STUDIES - 16738 - CSCE 485 - 561
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+Instructors: Radu Stoleru (P) 
+
+College Station Campus 
+Independent Study Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 6.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Independent Study   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Independent Study   Radu Stoleru (P)E-mail
+
+
+SPTP: INTRO HARDWARE VERIFY - 27639 - CSCE 489 - 500
+PREREQ: CSCE 315, CSCE 312, OR CSCE 350. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: 3peat Exclusion 
+Instructors: Aakash Tyagi (P) 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 8:00 am - 9:15 am   TR  H. R. Bright Building 113   Aug 31, 2015 - Dec 16, 2015 Lecture Aakash Tyagi (P)E-mail
+
+
+HNR-RESEARCH - 25495 - CSCE 491 - 220
+MIN GPR 3.4 REQUIRED FOR CATALOG 126 OR LOWER. MIN GPR 3.5 REQUIRED FOR CATALOG 127 OR GREATER. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: Honors, LMTD 
+Instructors: Vivek Sarin (P) 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Vivek Sarin (P)E-mail
+
+
+HNR-RESEARCH - 25548 - CSCE 491 - 227
+MIN GPR 3.4 REQUIRED FOR CATALOG 126 OR LOWER. MIN GPR 3.5 REQUIRED FOR CATALOG 127 OR GREATER. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: Honors, LMTD 
+Instructors: Jyh Liu (P) 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Jyh Liu (P)E-mail
+
+
+HNR-RESEARCH - 16796 - CSCE 491 - 233
+MIN GPR 3.4 REQUIRED FOR CATALOG 126 OR LOWER MIN GPR 3.5 REQUIRED FOR CATALOG 127 OR GREATER 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: Honors, LMTD 
+Instructors: Nancy Amato (P) 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Nancy Amato (P)E-mail
+
+
+HNR-RESEARCH - 25376 - CSCE 491 - 235
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: Honors, LMTD 
+Instructors: Jennifer Welch (P) 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Jennifer Welch (P)E-mail
+
+
+HNR-RESEARCH - 16740 - CSCE 491 - 236
+MIN GPR 3.4 REQUIRED FOR CATALOG 126 OR LOWER MIN GPR 3.5 REQUIRED FOR CATALOG 127 OR GREATER 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: Honors, LMTD 
+Instructors: Tracy Hammond (P) 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Tracy Hammond (P)E-mail
+
+
+HNR-RESEARCH - 25496 - CSCE 491 - 238
+MIN GPR 3.4 REQUIRED FOR CATALOG 126 OR LOWER. MIN GPR 3.5 REQUIRED FOR CATALOG 127 OR GREATER. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: Honors, LMTD 
+Instructors: Riccardo Bettati (P) 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Riccardo Bettati (P)E-mail
+
+
+HNR-RESEARCH - 25492 - CSCE 491 - 241
+MIN GPR 3.4 REQUIRED FOR CATALOG 126 OR LOWER. MIN GPR 3.5 REQUIRED FOR CATALOG 127 OR GREATER. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: Honors, LMTD 
+Instructors: Thomas Ioerger (P) 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Thomas Ioerger (P)
+
+
+HNR-RESEARCH - 25493 - CSCE 491 - 268
+MIN GPR 3.4 REQUIRED FOR CATALOG 126 OR LOWER. MIN GPR 3.5 REQUIRED FOR CATALOG 127 OR GREATER. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: Honors, LMTD 
+Instructors: Dylan A Shell (P) 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Dylan A Shell (P)E-mail
+
+
+RESEARCH - 25430 - CSCE 491 - 503
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+Instructors: Andrew Kerne (P) 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Andrew Kerne (P)E-mail
+
+
+RESEARCH - 25455 - CSCE 491 - 504
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    TBA
+
+
+RESEARCH - 21876 - CSCE 491 - 505
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+Instructors: Dmitri Loguinov (P) 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Dmitri Loguinov (P)E-mail
+
+
+RESEARCH - 25456 - CSCE 491 - 509
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+Instructors: Tiffani Williams (P) 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Tiffani Williams (P)E-mail
+
+
+RESEARCH - 21764 - CSCE 491 - 511
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+Instructors: Dezhen Song (P) 
+
+College Station Campus 
+Research Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Dezhen Song (P)E-mail
+
+
+RESEARCH - 16695 - CSCE 491 - 520
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+Instructors: Vivek Sarin (P) 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Vivek Sarin (P)E-mail
+
+
+RESEARCH - 21939 - CSCE 491 - 530
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+Instructors: Yoonsuck Choe (P) 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Yoonsuck Choe (P)E-mail
+
+
+RESEARCH - 16507 - CSCE 491 - 533
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+Instructors: Nancy Amato (P) 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Nancy Amato (P)E-mail
+
+
+RESEARCH - 16066 - CSCE 491 - 535
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+Instructors: Jennifer Welch (P) 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Jennifer Welch (P)E-mail
+
+
+RESEARCH - 19557 - CSCE 491 - 536
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+Instructors: Tracy Hammond (P) 
+
+College Station Campus 
+Research Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Tracy Hammond (P)E-mail
+
+
+RESEARCH - 25304 - CSCE 491 - 541
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    TBA
+
+
+RESEARCH - 21877 - CSCE 491 - 543
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+Instructors: Gabriel Dos Reis (P) 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Gabriel Dos Reis (P)
+
+
+RESEARCH - 19473 - CSCE 491 - 544
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+Instructors: Guofei Gu (P) 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Guofei Gu (P)E-mail
+
+
+RESEARCH - 21878 - CSCE 491 - 545
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+Instructors: Evdokia Nikolova (P) 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Evdokia Nikolova (P)
+
+
+RESEARCH - 16780 - CSCE 491 - 561
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+Instructors: James Caverlee (P) 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    James Caverlee (P)E-mail
+
+
+RESEARCH - 19552 - CSCE 491 - 568
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+Instructors: Dylan A Shell (P) 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Dylan A Shell (P)E-mail
+
+
+RESEARCH - 21841 - CSCE 491 - 597
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: LMTD 
+Instructors: Hye-Chung Kum (P), Yoonsuck Choe 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Hye-Chung Kum (P), Yoonsuck Choe E-mail
+
+
+PROG LANGUAGE DESIGN - 22119 - CSCE 604 - 600
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Jaakko Jarvi 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 8:00 am - 8:50 am   TR  Eller Oceanography & Metr Bldg 206  Aug 31, 2015 - Dec 16, 2015 Lecture Jaakko Jarvi (P)E-mail
+
+
+SOFTWARE ENGINEERING - 21342 - CSCE 606 - 600
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Shaoming Huang 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 3:00 pm - 3:50 pm   MWF H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture Shaoming Huang (P)E-mail
+
+
+DATABASE SYSTEMS - 19943 - CSCE 608 - 600
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Jianer Chen 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 9:35 am - 10:50 am  TR  Emerging Technologies Building 2005 Aug 31, 2015 - Dec 16, 2015 Lecture Jianer Chen (P)E-mail
+
+
+OPERATING SYSTEMS & APPL - 13439 - CSCE 611 - 600
+STACKED WITH 410 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Dilma Da Silva 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 8:00 am - 9:15 am   TR  H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Lecture Dilma Da Silva (P)
+
+
+COMPUTER ARCHITECTURE - 11002 - CSCE 614 - 600
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Daniel A. Jimenez 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 3:55 pm - 5:10 pm   TR  H. R. Bright Building 113   Aug 31, 2015 - Dec 16, 2015 Lecture Daniel A Jimenez (P)
+
+
+CO-DESIGN EMBEDDED SYS - 21749 - CSCE 617 - 601
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Rabinarayan Mahapatra 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 11:10 am - 12:25 pm TR  H. R. Bright Building 126   Aug 31, 2015 - Dec 16, 2015 Lecture Rabinarayan Mahapatra (P)E-mail
+
+
+COMPUTATIONAL GEOMETRY - 23431 - CSCE 620 - 600
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 2:20 pm - 3:35 pm   TR  H. R. Bright Building 126   Aug 31, 2015 - Dec 16, 2015 Lecture TBA
+
+
+GENERIC PROGRAMMING - 26236 - CSCE 622 - 600
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Jaakko Jarvi 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 9:35 am - 10:50 am  TR  H. R. Bright Building 126   Aug 31, 2015 - Dec 16, 2015 Lecture Jaakko Jarvi (P)E-mail
+
+
+SKETCH RECOGNITION - 24486 - CSCE 624 - 600
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Instructors: Tracy Hammond 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 11:30 am - 12:20 pm MWF H. R. Bright Building 126   Aug 31, 2015 - Dec 16, 2015 Lecture Tracy Hammond (P)E-mail
+
+
+ARTIFICIAL INTELLIGENCE - 11003 - CSCE 625 - 600
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Thomas Ioerger 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 9:35 am - 10:50 am  TR  Jack E. Brown Chem Engn Bldg 108    Aug 31, 2015 - Dec 16, 2015 Lecture Thomas Ioerger (P)
+
+
+ANALYSIS OF ALGORITHMS - 26237 - CSCE 629 - 601
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Jianer Chen 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 12:45 pm - 2:00 pm  TR  Jack E. Brown Chem Engn Bldg 108    Aug 31, 2015 - Dec 16, 2015 Lecture Jianer Chen (P)E-mail
+
+
+ANALYSIS OF ALGORITHMS - 26238 - CSCE 629 - 602
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Anxiao Jiang 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 4:10 pm - 5:25 pm   MW  H. R. Bright Building 113   Aug 31, 2015 - Dec 16, 2015 Lecture Anxiao Jiang (P)
+
+
+INTELL USER INTERFACE - 26239 - CSCE 634 - 600
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Frank Shipman 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 12:45 pm - 2:00 pm  TR  Emerging Technologies Building 1035 Aug 31, 2015 - Dec 16, 2015 Lecture Frank Shipman (P)E-mail
+
+
+GEOMETRIC MODELING - 26240 - CSCE 645 - 600
+CROSS-LISTED WITH CSCE 645-600 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Scott Schaefer 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 11:10 am - 12:25 pm TR  Civil Engineering Building 007  Aug 31, 2015 - Dec 16, 2015 Lecture Scott Schaefer (P)E-mail
+
+
+DIGITAL IMAGE - 11005 - CSCE 646 - 600
+CROSS-LISTED VIZA 654 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Ergun Akleman 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+4.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 8:00 am - 9:00 am   MW  Architecture Center, Bldg C 307 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Ergun Akleman (P)E-mail
+Laboratory  8:00 am - 10:20 am  F   Architecture Center, Bldg C 307 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  Ergun Akleman E-mail
+
+
+PHYSIC BASED MODELING - 11006 - CSCE 649 - 600
+CROSS-LISTED: VIZA 659 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: John Keyser 
+
+College Station Campus 
+Lecture and Laboratory Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 12:45 pm - 1:35 pm  TR  Architecture Center, Bldg C 307 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  John Keyser (P)
+Laboratory  1:36 pm - 2:25 pm   TR  Architecture Center, Bldg C 307 Aug 31, 2015 - Dec 16, 2015 Lecture and Laboratory  John Keyser
+
+
+HPC EARTH SCIENCE & PETE - 24423 - CSCE 657 - 600
+CROSS LISTED WITH PETE 657. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Vivek Sarin 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 11:30 am - 2:40 pm  M   Richardson Petroleum Engr Bldg 208  Aug 31, 2015 - Dec 16, 2015 Lecture Vivek Sarin (P)E-mail
+
+
+REAL-TIME SYSTEMS - 26241 - CSCE 663 - 600
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Riccardo Bettati 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 3:00 pm - 3:50 pm   MWF H. R. Bright Building 126   Aug 31, 2015 - Dec 16, 2015 Lecture Riccardo Bettati (P)E-mail
+
+
+WIRELESS AND MOBILE SYST - 26242 - CSCE 664 - 600
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 3:55 pm - 5:10 pm   TR  H. R. Bright Building 204   Aug 31, 2015 - Dec 16, 2015 Lecture TBA
+
+
+ADV NETWORK & SECURITY - 27005 - CSCE 665 - 600
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Daniel J. Ragsdale 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 12:45 pm - 2:00 pm  TR  H. R. Bright Building 113   Aug 31, 2015 - Dec 16, 2015 Lecture Daniel Joseph Ragsdale (P)E-mail
+
+
+PATTERN ANALYSIS - 26243 - CSCE 666 - 600
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 11:30 am - 12:20 pm MWF H. R. Bright Building 204   Aug 31, 2015 - Dec 16, 2015 Lecture TBA
+
+
+TEST & DIAG DIGITAL SYST - 26766 - CSCE 680 - 600
+CROSS-LISTED WITH ECEN 680 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Duncan Walker 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 2:20 pm - 3:35 pm   TR  H. R. Bright Building 113   Aug 31, 2015 - Dec 16, 2015 Lecture Duncan Walker (P)E-mail
+
+
+SEMINAR - 11007 - CSCE 681 - 600
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Jinxiang Chai, Nancy Amato 
+
+College Station Campus 
+Seminar Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+1.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Seminar 4:10 pm - 5:25 pm   MW  H. R. Bright Building 124   Aug 31, 2015 - Dec 16, 2015 Seminar Jinxiang Chai (P), Nancy Amato E-mail
+
+
+PROFESSIONAL INTERNSHIP - 19348 - CSCE 684 - 616
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Ricardo Gutierrez-Osuna 
+
+College Station Campus 
+Practicum Schedule Type 
+Internship Instructional Method 
+1.000 TO 16.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Practicum   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Practicum   Ricardo Gutierrez-Osuna (P)E-mail
+
+
+PROFESSIONAL INTERNSHIP - 15861 - CSCE 684 - 622
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: John Keyser 
+
+College Station Campus 
+Practicum Schedule Type 
+Internship Instructional Method 
+1.000 TO 16.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Practicum   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Practicum   John Keyser (P)
+
+
+PROFESSIONAL INTERNSHIP:IN-AB - 15995 - CSCE 684 - 650
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Andreas Klappenecker 
+
+College Station Campus 
+Practicum Schedule Type 
+Internship Instructional Method 
+1.000 TO 16.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Practicum   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Practicum   Andreas Klappenecker (P)
+
+
+PROFESSIONAL INTERNSHP: IN-AB - 18990 - CSCE 684 - 652
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Jinxiang Chai 
+
+College Station Campus 
+Practicum Schedule Type 
+Internship Instructional Method 
+1.000 TO 16.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Practicum   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Practicum   Jinxiang Chai (P)
+
+
+PROFESSIONAL INTERNSHIP - 21556 - CSCE 684 - 662
+FOR STUDENT LOCATED 50+ MILES FROM B/CS 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Daniel A. Jimenez 
+
+College Station Campus 
+Practicum Schedule Type 
+Internship Instructional Method 
+1.000 TO 16.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Practicum   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Practicum   Daniel A Jimenez (P)
+
+
+PROFESSIONAL INTERNSHIP: IN-AB - 21335 - CSCE 684 - 668
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Sing Sze 
+
+College Station Campus 
+Practicum Schedule Type 
+Internship Instructional Method 
+1.000 TO 16.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Practicum   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Practicum   Sing Sze (P)
+
+
+PROFESSIONAL INTERNSHIP:IN-AB - 16098 - CSCE 684 - 669
+FOR STUDENTS LOCATED 50+ MILES FROM 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Robin Murphy 
+
+College Station Campus 
+Practicum Schedule Type 
+Internship Instructional Method 
+1.000 TO 16.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Practicum   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Practicum   Robin Murphy (P)E-mail
+
+
+PROFESSIONAL INTERNSHP: IN-AB - 19229 - CSCE 684 - 671
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Eun Kim 
+
+College Station Campus 
+Practicum Schedule Type 
+Internship Instructional Method 
+1.000 TO 16.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Practicum   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Practicum   Eun Kim (P)
+
+
+PROFESSIONAL INTERNSHIP:IN-AB - 15862 - CSCE 684 - 672
+FOR STUDENTS LOCATED 50+ MILE FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: John Keyser 
+
+College Station Campus 
+Practicum Schedule Type 
+Internship Instructional Method 
+1.000 TO 16.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Practicum   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Practicum   John Keyser (P)
+
+
+PROFESSIONAL INTERNSHIP:IN-AB - 16469 - CSCE 684 - 674
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Andreas Klappenecker 
+
+College Station Campus 
+Practicum Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 16.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Practicum   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Practicum   Andreas Klappenecker (P)
+
+
+PROFESSIONAL INTERNSHIP: IN-AB - 16198 - CSCE 684 - 676
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Duncan Walker 
+
+College Station Campus 
+Practicum Schedule Type 
+Internship Instructional Method 
+1.000 TO 16.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Practicum   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Practicum   Duncan Walker (P)E-mail
+
+
+PROFESSIONAL INTERNSHIP: IN-AB - 21112 - CSCE 684 - 678
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Scott Schaefer 
+
+College Station Campus 
+Practicum Schedule Type 
+Internship Instructional Method 
+1.000 TO 16.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Practicum   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Practicum   Scott Schaefer (P)E-mail
+
+
+PROFESSIONAL INTERNSHIP:IN-AB - 16208 - CSCE 684 - 679
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Rabinarayan Mahapatra 
+
+College Station Campus 
+Practicum Schedule Type 
+Internship Instructional Method 
+1.000 TO 16.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Practicum   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Practicum   Rabinarayan Mahapatra (P)E-mail
+
+
+PROFESSIONAL INTERNSHIP: IN-AB - 24990 - CSCE 684 - 680
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Yoonsuck Choe 
+
+College Station Campus 
+Practicum Schedule Type 
+Internship Instructional Method 
+1.000 TO 16.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Practicum   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Practicum   Yoonsuck Choe (P)E-mail
+
+
+PROFESSIONAL INTERNSHIP:IN-AB - 16370 - CSCE 684 - 685
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Jennifer Welch 
+
+College Station Campus 
+Practicum Schedule Type 
+Internship Instructional Method 
+1.000 TO 16.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Practicum   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Practicum   Jennifer Welch (P)E-mail
+
+
+PROFESSIONAL INTERNSHP: IN-AB - 19205 - CSCE 684 - 690
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Frank Shipman 
+
+College Station Campus 
+Practicum Schedule Type 
+Internship Instructional Method 
+1.000 TO 16.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Practicum   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Practicum   Frank Shipman (P)E-mail
+
+
+PROFESSIONAL INTERNSHP: IN-AB - 16101 - CSCE 684 - 695
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: James Caverlee 
+
+College Station Campus 
+Practicum Schedule Type 
+Internship Instructional Method 
+1.000 TO 16.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Practicum   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Practicum   James Caverlee (P)E-mail
+
+
+PROFESSIONAL INTERNSHIP:IN-AB - 16108 - CSCE 684 - 697
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Paul Gratz 
+
+College Station Campus 
+Practicum Schedule Type 
+Internship Instructional Method 
+1.000 TO 16.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Practicum   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Practicum   Paul Gratz (P)E-mail
+
+
+DIRECTED STUDIES - 16409 - CSCE 685 - 609
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Tiffani Williams 
+
+College Station Campus 
+Independent Study Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 12.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Independent Study   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Independent Study   Tiffani Williams (P)E-mail
+
+
+DIRECTED STUDIES - 21336 - CSCE 685 - 618
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Sing Sze 
+
+College Station Campus 
+Independent Study Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 12.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Independent Study   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Independent Study   Sing Sze (P)
+
+
+DIRECTED STUDIES - 19497 - CSCE 685 - 619
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Robin Murphy 
+
+College Station Campus 
+Independent Study Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 12.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Independent Study   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Independent Study   Robin Murphy (P)E-mail
+
+
+DIRECTED STUDIES - 21813 - CSCE 685 - 621
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Eun Kim 
+
+College Station Campus 
+Independent Study Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 12.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Independent Study   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Independent Study   Eun Kim (P)
+
+
+DIRECTED STUDIES - 19478 - CSCE 685 - 622
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: John Keyser 
+
+College Station Campus 
+Independent Study Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 12.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Independent Study   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Independent Study   John Keyser (P)
+
+
+DIRECTED STUDIES - 21949 - CSCE 685 - 633
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Nancy Amato 
+
+College Station Campus 
+Independent Study Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 12.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Independent Study   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Independent Study   Nancy Amato (P)E-mail
+
+
+DIRECTED STUDIES - 21626 - CSCE 685 - 634
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Valerie Taylor 
+
+College Station Campus 
+Independent Study Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 12.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Independent Study   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Independent Study   Valerie Taylor (P)E-mail
+
+
+DIRECTED STUDIES - 15688 - CSCE 685 - 636
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Tracy Hammond 
+
+College Station Campus 
+Independent Study Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 12.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Independent Study   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Independent Study   Tracy Hammond (P)E-mail
+
+
+DIRECTED STUDIES - 19398 - CSCE 685 - 638
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Riccardo Bettati 
+
+College Station Campus 
+Independent Study Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 12.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Independent Study   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Independent Study   Riccardo Bettati (P)E-mail
+
+
+DIRECTED STUDIES - 19525 - CSCE 685 - 640
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Frank Shipman 
+
+College Station Campus 
+Independent Study Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 12.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Independent Study   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Independent Study   Frank Shipman (P)E-mail
+
+
+DIRECTED STUDIES - 19286 - CSCE 685 - 645
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: James Caverlee 
+
+College Station Campus 
+Independent Study Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 12.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Independent Study   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Independent Study   James Caverlee (P)E-mail
+
+
+DIRECTED STUDIES - 21338 - CSCE 685 - 681
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Anxiao Jiang 
+
+College Station Campus 
+Independent Study Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 12.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Independent Study   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Independent Study   Anxiao Jiang (P)
+
+
+DIRECTED STUDIES: IN-ABSENTIA - 16470 - CSCE 685 - 683
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Attributes: In Absentia 
+Instructors: Nancy Amato 
+
+College Station Campus 
+Independent Study Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 12.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Independent Study   TBA     TBA Aug 31, 2015 - Dec 16, 2015 Independent Study   Nancy Amato (P)E-mail
+
+
+SPTP: INTRO HARDWARE VERIFY - 27756 - CSCE 689 - 600
+PREREQ: CSCE 315, CSCE 312, OR CSCE 350. CORSS-LISTED WITH ECEN 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate, Undergraduate 
+Instructors: Aakash Tyagi 
+
+College Station Campus 
+Lecture Schedule Type 
+Traditional, Face-to-Face Instructional Method 
+3.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Lecture 8:00 am - 9:15 am   TR  H. R. Bright Building 113   Aug 31, 2015 - Dec 16, 2015 Lecture Aakash Tyagi (P)E-mail
+
+
+RESEARCH: IN-ABSENTIA - 16812 - CSCE 691 - 560
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Udo Pooch 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Udo Pooch (P)
+
+
+RESEARCH:IN ABSENTIA - 15687 - CSCE 691 - 583
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    TBA
+
+
+RESEARCH - 15689 - CSCE 691 - 600
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Ricardo Gutierrez-Osuna 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Ricardo Gutierrez-Osuna (P)E-mail
+
+
+RESEARCH - 27707 - CSCE 691 - 601
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Timothy A. Davis 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Timothy A Davis (P)E-mail
+
+
+RESEARCH - 15690 - CSCE 691 - 602
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Jinxiang Chai 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Jinxiang Chai (P)
+
+
+RESEARCH - 15691 - CSCE 691 - 603
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Andrew Kerne 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Andrew Kerne (P)E-mail
+
+
+RESEARCH - 15692 - CSCE 691 - 604
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Richard K. Furuta 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Richard K. Furuta (P)E-mail
+
+
+RESEARCH - 15693 - CSCE 691 - 605
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Dmitri Loguinov 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Dmitri Loguinov (P)E-mail
+
+
+RESEARCH - 15732 - CSCE 691 - 608
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Radu Stoleru 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Radu Stoleru (P)E-mail
+
+
+RESEARCH - 15733 - CSCE 691 - 609
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Tiffani Williams 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Tiffani Williams (P)E-mail
+
+
+RESEARCH: - 16803 - CSCE 691 - 610
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Evdokia Nikolova 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Evdokia Nikolova (P)
+
+
+RESEARCH - 15734 - CSCE 691 - 611
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Dezhen Song 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Dezhen Song (P)E-mail
+
+
+RESEARCH - 21360 - CSCE 691 - 612
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Daniel A. Jimenez 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Daniel A Jimenez (P)
+
+
+RESEARCH - 15735 - CSCE 691 - 616
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Ricardo Gutierrez-Osuna 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Ricardo Gutierrez-Osuna (P)E-mail
+
+
+RESEARCH - 15736 - CSCE 691 - 617
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Jaakko Jarvi 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Jaakko Jarvi (P)E-mail
+
+
+RESEARCH - 15737 - CSCE 691 - 618
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Sing Sze 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Sing Sze (P)
+
+
+RESEARCH - 15738 - CSCE 691 - 619
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Robin Murphy 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Robin Murphy (P)E-mail
+
+
+RESEARCH - 15739 - CSCE 691 - 620
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Vivek Sarin 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Vivek Sarin (P)E-mail
+
+
+RESEARCH - 15740 - CSCE 691 - 621
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Eun Kim 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Eun Kim (P)
+
+
+RESEARCH - 15741 - CSCE 691 - 622
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: John Keyser 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    John Keyser (P)
+
+
+RESEARCH - 15742 - CSCE 691 - 624
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Andreas Klappenecker 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Andreas Klappenecker (P)
+
+
+RESEARCH - 15743 - CSCE 691 - 625
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Jianer Chen 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Jianer Chen (P)E-mail
+
+
+RESEARCH - 15744 - CSCE 691 - 626
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Duncan Walker 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Duncan Walker (P)E-mail
+
+
+RESEARCH - 15745 - CSCE 691 - 627
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Jyh Liu 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Jyh Liu (P)E-mail
+
+
+RESEARCH - 15746 - CSCE 691 - 628
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Scott Schaefer 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Scott Schaefer (P)E-mail
+
+
+RESEARCH - 15747 - CSCE 691 - 629
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Rabinarayan Mahapatra 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Rabinarayan Mahapatra (P)E-mail
+
+
+RESEARCH - 15748 - CSCE 691 - 630
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Yoonsuck Choe 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Yoonsuck Choe (P)E-mail
+
+
+RESEARCH - 15749 - CSCE 691 - 631
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Anxiao Jiang 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Anxiao Jiang (P)
+
+
+RESEARCH - 15750 - CSCE 691 - 633
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Nancy Amato 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Nancy Amato (P)E-mail
+
+
+RESEARCH - 15751 - CSCE 691 - 634
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Valerie Taylor 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Valerie Taylor (P)E-mail
+
+
+RESEARCH - 15752 - CSCE 691 - 635
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Jennifer Welch 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Jennifer Welch (P)E-mail
+
+
+RESEARCH - 15753 - CSCE 691 - 636
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Tracy Hammond 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Tracy Hammond (P)E-mail
+
+
+RESEARCH - 15754 - CSCE 691 - 638
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Riccardo Bettati 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Riccardo Bettati (P)E-mail
+
+
+RESEARCH - 15755 - CSCE 691 - 639
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Bjarne Stroustrup 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Bjarne Stroustrup (P)
+
+
+RESEARCH - 15756 - CSCE 691 - 640
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Frank Shipman 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Frank Shipman (P)E-mail
+
+
+RESEARCH - 15757 - CSCE 691 - 641
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Thomas Ioerger 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Thomas Ioerger (P)
+
+
+RESEARCH - 15758 - CSCE 691 - 642
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Lawrence Rauchwerger 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Lawrence Rauchwerger (P)E-mail
+
+
+RESEARCH - 18412 - CSCE 691 - 643
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Gabriel Dos Reis 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Gabriel Dos Reis (P)
+
+
+RESEARCH - 15760 - CSCE 691 - 644
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Guofei Gu 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Guofei Gu (P)E-mail
+
+
+RESEARCH - 15759 - CSCE 691 - 645
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: James Caverlee 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    James Caverlee (P)E-mail
+
+
+RESEARCH - 15761 - CSCE 691 - 646
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Dylan A. Shell 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Dylan A Shell (P)E-mail
+
+
+RESEARCH - 19206 - CSCE 691 - 647
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Paul Gratz 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Paul Gratz (P)E-mail
+
+
+RESEARCH - 16636 - CSCE 691 - 648
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: 3peat Exclusion, YIRS 
+Instructors: Zachary O. Dugas Toups 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Zachary Oliver Dugas Toups (P)
+
+
+RESEARCH: IN-ABSENTIA - 16082 - CSCE 691 - 652
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Jinxiang Chai 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Jinxiang Chai (P)
+
+
+RESEARCH: IN-ABSENTIA - 16087 - CSCE 691 - 653
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Andrew Kerne 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Andrew Kerne (P)E-mail
+
+
+RESEARCH: IN-ABSENTIA - 16085 - CSCE 691 - 654
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Richard K. Furuta 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Richard K. Furuta (P)E-mail
+
+
+RESEARCH: IN-ABSENTIA - 16090 - CSCE 691 - 655
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Dmitri Loguinov 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Dmitri Loguinov (P)E-mail
+
+
+RESEARCH: IN-ABSENTIA - 25139 - CSCE 691 - 666
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Ricardo Gutierrez-Osuna 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Ricardo Gutierrez-Osuna (P)E-mail
+
+
+RESEARCH: IN-ABSENTIA - 21875 - CSCE 691 - 667
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Jaakko Jarvi 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Jaakko Jarvi (P)E-mail
+
+
+RESEARCH: IN-ABSENTIA - 16093 - CSCE 691 - 668
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Sing Sze 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Sing Sze (P)
+
+
+RESEARCH: IN-ABSENTIA - 16092 - CSCE 691 - 669
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Robin Murphy 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Robin Murphy (P)E-mail
+
+
+RESEARCH: IN-ABSENTIA - 25153 - CSCE 691 - 672
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: John Keyser 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    John Keyser (P)
+
+
+RESEARCH: IN-ABSENTIA - 16088 - CSCE 691 - 674
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Andreas Klappenecker 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Andreas Klappenecker (P)
+
+
+RESEARCH: IN-ABSENTIA - 16089 - CSCE 691 - 677
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Jyh Liu 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Jyh Liu (P)E-mail
+
+
+RESEARCH: IN-ABSENTIA - 16091 - CSCE 691 - 679
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Rabinarayan Mahapatra 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Rabinarayan Mahapatra (P)E-mail
+
+
+RESEARCH: IN-ABSENTIA - 16083 - CSCE 691 - 680
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Yoonsuck Choe 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Yoonsuck Choe (P)E-mail
+
+
+RESEARCH: IN-ABSENTIA - 16079 - CSCE 691 - 683
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Nancy Amato 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Nancy Amato (P)E-mail
+
+
+RESEARCH: IN-ABSENTIA - 16084 - CSCE 691 - 685
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Jennifer Welch 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Jennifer Welch (P)E-mail
+
+
+RESEARCH: IN-ABSENTIA - 16080 - CSCE 691 - 688
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Riccardo Bettati 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Riccardo Bettati (P)E-mail
+
+
+RESEARCH: IN-ABSENTIA - 24855 - CSCE 691 - 690
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Frank Shipman 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Frank Shipman (P)E-mail
+
+
+RESEARCH: IN-ABSENTIA - 16086 - CSCE 691 - 691
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Thomas Ioerger 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Thomas Ioerger (P)
+
+
+RESEARCH: IN-ABSENTIA - 16081 - CSCE 691 - 695
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS. 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: James Caverlee 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    James Caverlee (P)E-mail
+
+
+RESEARCH: IN-ABSENTIA - 21827 - CSCE 691 - 697
+FOR STUDENTS LOCATED 50+ MILES FROM B/CS 
+Associated Term: Fall 2015 - College Station 
+Registration Dates: Apr 07, 2015 to Sep 04, 2015 
+Levels: Graduate 
+Attributes: In Absentia, 3peat Exclusion, YIRS 
+Instructors: Paul Gratz 
+
+College Station Campus 
+Research Schedule Type 
+Non-traditional Instructional Method 
+1.000 TO 23.000 Credits 
+
+
+Scheduled Meeting Times
+Type    Time    Days    Where   Date Range  Schedule Type   Instructors
+Research    TBA     TBA Aug 31, 2015 - Dec 16, 2015 Research    Paul Gratz (P)E-mail
+
+
+
+Return to Previous
+Transparent Image
+2

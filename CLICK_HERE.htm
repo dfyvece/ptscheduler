@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<!-- saved from url=(0052)http://kevinvece.net/ptsched192192192/scheduler.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Peer Teacher Scheduler</title>
+<link rel="stylesheet" href="ptscheduler_files/style.css">
+<style type="text/css"></style></head>
+<body>
+
+<div class="header">
+<h1>PT Scheduler</h1>
+</div>
+
+<div id="content">
+<div class="wrap">
+
+<div id="sidebar">
+<table id="employeeList">
+    <tbody><tr>
+        <td colspan="3"><h3>Current Employees</h3></td>
+    </tr>
+</tbody></table>
+
+<table id="saveData">
+<tbody>
+    <tr><td style="padding-top:1em"><h3>Input</h3></td></tr>
+    <tr>
+        <td><label for="files">Load Schedules: </label><input id="files" type="file" value="Choose CSV Folder" multiple=""></td>
+    </tr>
+    <tr>
+        <td><label for="dataFile">Load Lab File: </label><input id="labFile" type="file"></td>
+    </tr>
+    <tr><td style="padding-top:1em"><h3>Save and Restore</h3></td></tr>
+    <tr>
+        <td><label for="saveButton">Save Data File: <input id="saveButton" type="button" value="Save Data"></td>
+    </tr>
+    <tr>
+        <td><label for="dataFile">Load Data File: </label><input id="dataFile" type="file"></td>
+    </tr>
+    <tr>
+	<td style="padding-top:2em;"><h3 id="helpButton" style="color: #fff; padding:1em;border: solid 2px #26a3fa;background: #559">Help</h3></td>
+    </tr>
+</tr>
+</tbody></table>
+</div>
+
+
+<div class="menu">
+<ul>
+    <li id="showByEmployee" style="background: rgb(0, 221, 85);">
+        <a>Show by PT</a>
+    </li>
+    <li id="showByLab" style="background: rgb(0, 221, 85);">
+        <a>Show by Lab</a>
+    </li>
+</ul>
+</div>
+
+<div id="output">
+<table id="outputTable">
+</table>
+</div>
+<span class="clr"></span>
+
+</div>
+
+</div>
+
+<script src="./ptscheduler_files/jquery-2.1.1.min.js"></script>
+<script src="./ptscheduler_files/jquery.csv.min.js"></script>
+<script src="./ptscheduler_files/scheduler.js"></script>
+
+
+
+</body></html>
